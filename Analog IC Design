@@ -1,0 +1,6 @@
+📘 Introduction to Analog IC Design
+Analog IC design involves creating integrated circuits that process real-world continuous signals such as sound, temperature, or voltage. Unlike digital circuits that deal with binary data, analog circuits focus on amplifying, filtering, and conditioning signals with high precision.
+
+This field requires careful design of components like operational amplifiers, filters, biasing circuits, and voltage/current references, ensuring performance over process, voltage, and temperature variations. It plays a vital role in applications such as sensors, audio systems, power management, and communication interfaces.
+
+Analog IC design combines circuit theory, semiconductor physics, and layout optimization, making it both challenging and essential for interfacing the physical world with digital system

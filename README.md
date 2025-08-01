@@ -1,3 +1,38 @@
+
+### 👤 Contributors
+Abhishek Mishra
+
+B.Tech, Electronics & Instrumentation Engineering
+
+SIC :- 23BEIH62
+
+Duration : June 2nd 2025 - June 20th 2025
+
+Mentor : DR. SAROJ ROUT
+
+### Softwares Used
+Xschem,
+ngspice,
+Siliwiz
+
+### Topics 
+
+-> RC Circuits
+
+-> Passive IC Devices
+
+-> Semiconductor Devices and IC Processing
+
+-> MOS Devices
+
+-> Small Signal Analysis
+
+-> Current Mirror
+
+-> Differential Amplifer
+
+
+
 #  MEMS Microphone Interface IC Design
 
 A complete analog front-end (AFE) design for MEMS microphones, focusing on clean signal amplification, filtering, and buffering—ideal for embedded systems, audio sensing, and IoT applications.
@@ -88,6 +123,14 @@ ckt :-
 
 <img width="1920" height="1020" alt="opamp_model" src="https://github.com/user-attachments/assets/66e3fa45-8a0e-4fd5-a3f9-3394c368778c" />
 
+## Differential Amplifier
+
+A differential amplifier is a key analog circuit that amplifies the difference between two input signals, while rejecting any signals that are common to both (called common-mode signals).
+
+<img width="1919" height="1077" alt="nmos_op" src="https://github.com/user-attachments/assets/863f13b4-287b-46cc-b7ca-8a1585082498" />
+
+
+
 ## 📊 ckts , plots & waveforms
 
 OP_AMP model
@@ -126,12 +169,6 @@ Output buffering
 This analog interface ensures high-fidelity, low-noise, and ready-to-digitize signals from MEMS microphones.
 
 
-### 👤 Contributors
-Abhishek Mishra
-
-B.Tech, Electronics & Instrumentation Engineering
-
-SIC :- 23BEIH62
 
 
 
